@@ -5,10 +5,9 @@ I am a passionate **Computer Science Student** and a dedicated **.NET Developer*
 ---
 
 ### 💡 About Me
-- 🎓 **Education**: Studying Computer Science & Software Engineering (Data Structures, Operating Systems, Algorithms).
+- 🎓 **Education**: Studying Computer Science & Software Engineering 
 - 💻 **Primary Stack**: C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, LINQ, SQL.
 - 🐳 **DevOps & Tools**: Docker containerization, Git workflows, Stripe Webhooks integration, and secure environment configurations (User Secrets / .env).
-- 🖥️ **Desktop & GUI**: Windows Forms development for standalone tools and mathematical solvers.
 - 🚀 **Experience**: Successfully designed and developed **multiple practical projects**, ranging from enterprise e-commerce backends to algorithmic matrix solvers and scheduling systems.
 
 ---
@@ -20,8 +19,7 @@ I am a passionate **Computer Science Student** and a dedicated **.NET Developer*
 | **Databases & ORM** | SQL Server, Entity Framework Core |
 | **DevOps & Deployment** | Docker, Dockerfiles, Docker Compose, CI/CD (GitHub Actions) |
 | **APIs & Payments** | RESTful Web APIs, Stripe CLI & Webhooks, Gmail SMTP Integration |
-| **Desktop Development** | C# Windows Forms (MVVM/UI design patterns) |
-| **CS Fundamentals** | Data Structures, Algorithms, OS Scheduling, Digital Logic |
+
 
 ---
 
@@ -34,14 +32,15 @@ I have built and deployed a variety of robust applications showcasing my backend
    - Implemented automated email notification workflows via **Gmail SMTP**.
    - Containerized the entire backend stack using **Docker** and added automated testing pipelines via **GitHub Actions CI**.
 
-2. **🔢 Advanced Gaussian Elimination Matrix Solver**
-   - Developed a C# Windows Forms desktop application featuring step-by-step execution workflows.
-   - Implemented visual row/column highlighting, row pivoting, and complete back-substitution logic.
+2. **🏥 Smart Health Care Management API**
+   - Developed a robust ASP.NET Core backend featuring secure **Authorization** and automated **Email Notification Services**.
+   - Engineered an intelligent **dynamic doctor scheduling engine** that manages practitioner appointments efficiently and updates/shifts slots automatically on a
+     daily basis.
+   - Fully containerized using **Docker** to streamline local development and deployment workflows.
 
-3. **📅 Enterprise Scheduling & Management API**
-   - Engineered an ASP.NET Core Web API supporting dynamic date-range shifts while preserving fixed hourly slots.
-   - Integrated custom data seeding and robust integration testing base classes.
-
+3. **📦 Automated Warehouse & Inventory Management System**
+   - Architected using **Clean Architecture** principles in ASP.NET Core to ensure high maintainability and separation of concerns.
+   - Implemented an automated **Background Service** that continuously monitors and dynamically archives inventory logs older than one year into dedicated storage.
 
 <!--
 **omarfares577-hue/omarfares577-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
