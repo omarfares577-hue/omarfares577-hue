@@ -6,7 +6,7 @@ I am a passionate **Computer Science Student** and a dedicated **.NET Developer*
 
 ### 💡 About Me
 - 🎓 **Education**: Studying Computer Science & Software Engineering 
-- 💻 **Primary Stack**: C#, .NET 8, ASP.NET Core Web API, Entity Framework Core, LINQ, SQL.
+- 💻 **Primary Stack**: C#, .NET 8+, ASP.NET Core Web API, Entity Framework Core, LINQ, SQL.
 - 🐳 **DevOps & Tools**: Docker containerization, Git workflows, Stripe Webhooks integration, and secure environment configurations (User Secrets / .env).
 - 🚀 **Experience**: Successfully designed and developed **multiple practical projects**, ranging from enterprise e-commerce backends to algorithmic matrix solvers and scheduling systems.
 
@@ -15,7 +15,7 @@ I am a passionate **Computer Science Student** and a dedicated **.NET Developer*
 ### 🛠️ Tech Stack & Skills
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Frameworks** | C#, .NET Core / .NET 8, ASP.NET Core, LINQ |
+| **Languages & Frameworks** | C#, .NET Core / .NET 8+, ASP.NET Core, LINQ |
 | **Databases & ORM** | SQL Server, Entity Framework Core |
 | **DevOps & Deployment** | Docker, Dockerfiles, Docker Compose, CI/CD (GitHub Actions) |
 | **APIs & Payments** | RESTful Web APIs, Stripe CLI & Webhooks, Gmail SMTP Integration |
